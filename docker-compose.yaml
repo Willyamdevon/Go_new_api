@@ -8,6 +8,6 @@ services:
     volumes:
       - dbData:/var/lib/postgresql/dbData
     ports:
-      - "5436:5436"
+      - "5436:5432"
 volumes:
   dbData:
