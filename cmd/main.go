@@ -2,9 +2,9 @@ package main
 
 import (
 	todo "Go_new_api"
-	"Go_new_api/pkg/handler"
-	"Go_new_api/pkg/repository"
-	"Go_new_api/pkg/service"
+	"Go_new_api/internal/handler"
+	"Go_new_api/internal/repository"
+	"Go_new_api/internal/service"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 	"github.com/sirupsen/logrus"

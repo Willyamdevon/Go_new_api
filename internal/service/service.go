@@ -2,7 +2,7 @@ package service
 
 import (
 	todo "Go_new_api"
-	"Go_new_api/pkg/repository"
+	"Go_new_api/internal/repository"
 )
 
 type Authorization interface {

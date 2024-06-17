@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"Go_new_api/pkg/service"
+	"Go_new_api/internal/service"
 	"github.com/gin-gonic/gin"
 )
 
